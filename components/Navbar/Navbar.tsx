@@ -29,10 +29,7 @@ export function Navbar() {
             </Link>
             <Link href="/roadmap" className={styles.link}>
               Roadmap
-            </Link>
-            <Link href="/team" className={styles.link}>
-              Team
-            </Link>          
+            </Link>        
             <Link href="/mint" className={styles.link}>
               Mint
             </Link>
